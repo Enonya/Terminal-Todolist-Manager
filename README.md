@@ -18,4 +18,5 @@ Also, I'll try to make it like gdb, you can just input a single English letter a
 
 ## Todo
 
-- [ ] start this project.
+- [x] start this project.
+- [ ] [todo.md](todo.md)
