@@ -10,4 +10,8 @@ none, I haven't start it yet.
 
 ## Tips
 
-At least now, it will only add some features that I need, if you like this tool and want to add some features, you can fork it or just open an issue :)
+At least now, I will only add some features that I need, if you like this tool and want to add some features, you can fork it or just open an issue :)
+
+## Todo
+
+- [ ] start this project.
