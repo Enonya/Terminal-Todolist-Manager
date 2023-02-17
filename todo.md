@@ -10,3 +10,7 @@
 ## Train of thoughts
 
 none.
+
+Fuzzy search can turn to a more simple problem.
+
+not subsequence but substring, just have to dynamically maintain SAM?
