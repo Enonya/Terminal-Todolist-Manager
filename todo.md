@@ -6,10 +6,11 @@
 - [ ] Add/Remove task
 - [ ] Task priority & dynamically modify
 - [ ] Fuzzy search (As a OI problem)
+- [ ] Save (export) `ttm xxx.tms`
 
 ## Train of thoughts
 
-none.
+Include, Functions.
 
 Fuzzy search can turn to a more simple problem.
 
